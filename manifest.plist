@@ -17,7 +17,7 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.zhiliaoapp.musicallyio</string>
+                <string>com.hmc.fallingcatchet</string>
                 <key>bundle-version</key>
                 <string>2.0.0</string>
                 <key>kind</key>
@@ -29,6 +29,7 @@
     </array>
 </dict>
 </plist>
+
 
 
 
